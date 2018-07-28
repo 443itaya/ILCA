@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/all"
+                android:title="一覧"/>
+
+    </group>
+
+
+    <!--<item android:title="教員">-->
+        <!--<menu>-->
+            <!--<item-->
+                    <!--android:id="@+id/miki"-->
+                    <!--android:title="三木先生"/>-->
+            <!--<item-->
+                    <!--android:id="@+id/makihara"-->
+                    <!--android:title="槙原先生"/>-->
+        <!--</menu>-->
+    <!--</item>-->
+
+    <item android:title="生徒">
+        <menu>
+            <item
+                    android:id="@+id/m2"
+                    android:title="M2"/>
+            <item
+                    android:id="@+id/m1"
+                    android:title="M1"/>
+            <item
+                    android:id="@+id/u4"
+                    android:title="U4"/>
+        </menu>
+    </item>
+
+</menu>

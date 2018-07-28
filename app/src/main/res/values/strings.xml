@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ILCA</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_u4">U4Activity</string>
+    <string name="title_activity_m1">M1Activity</string>
+    <string name="title_activity_m2">M2Activity</string>
+</resources>
